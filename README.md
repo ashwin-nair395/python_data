@@ -1,2 +1,2 @@
-# python_data
-You will get my python codes here...
+#Python Projects
+This is my python projects repo
